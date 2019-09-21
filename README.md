@@ -1,2 +1,7 @@
 # Vision-Based-Gesture-Recognition-and-Control
-Control mouse using Gestures (CNN)
+Pc navigations using Hand Gestures
+
+To Run: 
+python recognize.py
+
+Requires tensorflow-gpu for good performance
