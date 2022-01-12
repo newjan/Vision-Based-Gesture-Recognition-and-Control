@@ -59,7 +59,7 @@ patsy==0.5.1
 pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==5.4.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 progressbar==2.5
 progressbar2==3.39.3
 prometheus-client==0.5.0
