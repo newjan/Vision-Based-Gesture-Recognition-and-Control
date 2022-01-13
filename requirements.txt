@@ -58,7 +58,7 @@ parso==0.3.4
 patsy==0.5.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==9.0.0
 pipenv==2018.11.26
 progressbar==2.5
 progressbar2==3.39.3
